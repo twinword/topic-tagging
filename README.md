@@ -1,4 +1,6 @@
-topic
-=====
+Topic Tagging 
+Detect and generate human like topics to the given text.
 
-Topic Tagging: Detect and generate human like topics to the given text. (TBA)
+[Demo]
+https://twinword.com/topic-tagging.php
+
